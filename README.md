@@ -40,7 +40,7 @@ The aim of this project would be to analyse the sentiment of quotes related to C
 *A list of internal milestones up until project Milestone 3.*
 Until project Milestone 3:
 
-*?? DURING MILESTONE 2 OR AFTER GIVING REPORT OF MILESTONE 2*
+*upcoming steps in milestone 3*
 
 ## Questions for TAs 
 *Add here any questions you have for us related to the proposed project.*
