@@ -10,17 +10,20 @@
 7. [Questions for TAs](#Questions-for-TAs)
 
 
-## Abstract: A 150 word description of the project idea and goals. What’s the motivation behind your project? What story would you like to tell, and why?
-Evolution of sinophobic sentiment and propaganda from 2015 to 2020
-For the past few decades, China’s domestic growth and increased worldwide influence, along with economic and social instability in the US, have presented a threat to the idea of American exceptionalism. As a result, several prominent American political figures and media outlets have been fearmongering about the consequences of a stronger Chinese state. This, in turn, has increased anti-Asian and anti-Chinese sentiment among the general population, as exemplified in 2020 by the creation of #StopAsianHate, which aimed to bring to light the violent effect of scapegoating China for the Covid-19 pandemic on Asian-American citizens.
-The aim of this project would be to analyse the sentiment of quotes related to China as they are present in the article-centric database. The sentiment analysis would be provided by an appropriate library/pre-trained model: ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time. To gain a better understanding of the source of sinophobic rhetoric, quotes would be sorted by their most likely speaker, keeping only those of American nationality, and further sorted by their occupation (politician, political correspondent, citizen/unknown).
+## Abstract: 
+**Evolution of sinophobic sentiment and propaganda in the United States of America from 2015 to 2020** (in the article-centric database)
+
+  For the past few decades, China’s domestic growth and increased worldwide influence, along with economic/social instability in the US, have presented a threat to the idea of American exceptionalism. As a result, several prominent American political figures and media outlets have been fearmongering about the consequences of a stronger Chinese state. This, in turn, has increased anti-Asian and in particular anti-Chinese sentiment among the general population, as exemplified in 2020 by *#StopAsianHate*, which aimed to bring to light the violent effect of scapegoating China for the Covid-19 pandemic on Asian-American citizens.
+  The aim of this project would be to analyse the sentiment of quotes related to China thanks to an appropriate pre-trained model: ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time. To gain a better understanding of the source, quotes would be sorted by their most likely speaker, keeping only those of American nationality, and further sorted by their occupation.
 
 
 
-## Research Questions: A list of research questions you would like to address during the project.
+## Research Questions: 
+A list of research questions you would like to address during the project.
 
 
-## Proposed additional datasets (if any): List the additional dataset(s) you want to use (if any), and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you’ve read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible.
+## Proposed additional datasets: 
+List the additional dataset(s) you want to use (if any), and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you’ve read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible.
 
 ## Methods
 
@@ -28,7 +31,9 @@ The aim of this project would be to analyse the sentiment of quotes related to C
 ## Proposed timeline
 
 
-## Organization within the team: A list of internal milestones up until project Milestone 3.
+## Organization within the team: 
+A list of internal milestones up until project Milestone 3.
 
 
-## Questions for TAs (optional): Add here any questions you have for us related to the proposed project.
+## Questions for TAs: 
+Add here any questions you have for us related to the proposed project.
