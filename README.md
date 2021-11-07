@@ -21,6 +21,7 @@ First we would like to analyse a bit more the sinophobic sentiment in the USA th
 * What form does it have? (distribution?)
 * If yes, is it correlated with some special events (COVID crisis, ...)? Are they sudden spikes?
 * From where does the sinophobic sentiment come from: citizens? Political parties?
+* From which generation (range of ages)?
 
 Then, we want to analyse the opposite part, aka those who raise theirs voices against this anti-Chinese sentiment.
 * who has been advocating for the anti-racism?
