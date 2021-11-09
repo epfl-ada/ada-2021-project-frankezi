@@ -40,18 +40,18 @@ The aim of this project would be to analyse the sentiment of quotes related to C
 
 ## Proposed timeline
 
-Milestone 3.1: Answering questions problems
-Milestone 3.2: Finish & review of questions problems
-Milestone 3.3: Notebook presentation & explanations
+- Milestone 3.1: Answering questions problems
+- Milestone 3.2: Finish & review of questions problems
+- Milestone 3.3: Notebook presentation & explanations
 
 ## Organization within the team 
 *A list of internal milestones up until project Milestone 3.*
 Until project Milestone 3:
 
-Kepler:
-Zied:
-Anne:
-Francesca:
+- Kepler:
+- Zied:
+- Anne:
+- Francesca:
 
 
 *upcoming steps in milestone 3*
