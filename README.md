@@ -40,7 +40,7 @@ The aim of this project would be to analyse the sentiment of quotes related to C
 
 ## Proposed timeline
 
-- Milestone 3.1: Answering questions problems
+- Milestone 3.1: Statistical & graphical analysis for answering reserch questions
 - Milestone 3.2: Finish & review of questions problems
 - Milestone 3.3: Notebook presentation & explanations
 
