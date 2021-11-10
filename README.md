@@ -27,30 +27,31 @@ Secondly, we want to analyse the opposite part: those who raise theirs voices **
 * And how this defense takes place: through accusations (more violent) or by showing the absurdity of this sentiment (by pedagogy)?
 
 ## Proposed additional datasets 
-We want to use the tool Empath as an additional dataset, which can  analyze text across hundreds of data-driven categories. It will help us to validate a lexical categories on demand on our quotes. It is a dictionnary-based approaches about sentiment (see [Fast, Ethan, Binbin Chen, and Michael S. Bernstein. "Empath: Understanding topic signals in large-scale text." *Proceedings of the 2016 CHI conference on human factors in computing systems.* 2016.](https://arxiv.org/pdf/1602.06979.pdf)).
+We want to use the tool Empath as an additional dataset, which can  analyse text across hundreds of data-driven categories. It will help us to validate a lexical categories on demand on our quotes. It is a dictionnary-based approaches about sentiment (see [Fast, Ethan, Binbin Chen, and Michael S. Bernstein. "Empath: Understanding topic signals in large-scale text." *Proceedings of the 2016 CHI conference on human factors in computing systems.* 2016.](https://arxiv.org/pdf/1602.06979.pdf)).
 
 ## Methods
 The aim of this project would be to analyse the sentiment of quotes related to China thanks to an appropriate pre-trained model (*Empath tool, see in [additional datasets](#Proposed-additional-datasets) section*): ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time.
+
 In order to to it, we will:
-* Show evolution of sinophobic quotes throug graphs
 * To gain a better understanding of the source, quotes would be sorted by their most likely speaker, keeping only those of American nationality, and further sorted by their occupation.
-* 
+* Show main evolutions of sinophobic sentiment throug graphs.
+* We use the tool Empath to analyse our quotes and range them in categories of sentiments.
+* We oppose analysis about sinophobic sentiment in the USA and analysis about anti-sinophobic sentiment.
 
 ## Proposed timeline
-
 - Milestone 3.1: Statistical & graphical analysis for answering [Research Questions](#Research-Questions)
-- Milestone 3.2: Finish & review of questions problems
+- Milestone 3.2: Finish & review of research questions
 - Milestone 3.3: Notebook presentation & explanations
 
 ## Organization within the team 
-*A list of internal milestones up until project Milestone 3.*
 Until project Milestone 3:
 
-- Kepler:
-- Zied:
-- Anne:
-- Francesca:
+- *Zied:* finish to find which speaker is the good one + finish sorted the quotes
+- *Kepler:* categorization of quotes with the Empath dataset
+- *Francesca:* main evolutions of sinophobic sentiment + main observations
+- *Anne :* oppose analysis about sinophobic sentiment in the USA and analysis about anti-sinophobic sentiment
 
 ## Questions for TAs 
-- Some quotes have muliple qids referencing the same name, how to be sure wich speaker to choose. 
+- Some quotes have muliple qids referencing the same name, how to be sure wich speaker to choose?
+- Pertinance of our analysis?
 
