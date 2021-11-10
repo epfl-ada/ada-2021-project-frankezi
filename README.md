@@ -11,36 +11,34 @@
 
 
 ## Abstract
-**Evolution of sinophobic sentiment and propaganda in the United States of America from 2015 to 2020(in the article-centric database)** 
+**Evolution of sinophobic sentiment and propaganda in the United States of America from 2015 to 2020** <br/>
 For the past few decades, China’s domestic growth and increased worldwide influence, along with economic and social instability in the US, have presented a threat to the idea of American exceptionalism. As a result, several prominent American political figures and media outlets have been fearmongering about the consequences of a stronger Chinese state. This, in turn, has increased anti-Asian and anti-Chinese sentiment among the general population, as exemplified in 2020 by the creation of *#StopAsianHate*, which aimed to bring to light the violent effect of scapegoating China for the Covid-19 pandemic on Asian-American citizens.
 
 ## Research Questions 
-What we would like to address during the project:
-First we would like to analyse a bit more the sinophobic sentiment in the USA through the quotes.
+During the project, first we would like to analyse a bit more the **sinophobic sentiment in the USA** through the quotes.
 * Can we see an evolution of the sinophobic sentiment in the USA?
-* What form does it have? (distribution?)
+* What form/distribution does it have?
 * If yes, is it correlated with some special events (COVID crisis, ...)? Are they sudden spikes?
-* From where does the sinophobic sentiment come from: citizens? Political parties?
-* From which generation (range of ages)?
+* From which part of the population does the sinophobic sentiment come from: citizens? Political parties? From which generation/range of ages?
 
-Then, we want to analyse the opposite part, aka those who raise theirs voices against this anti-Chinese sentiment.
+Secondly, we want to analyse the opposite part: those **who raise theirs voices against this anti-Chinese sentiment in the USA**.
 * who has been advocating for the anti-racism?
-* From where does it come from: from the Asian-American citizens or from non Asian-American citizens? Politicians or citizens?
-* And how this defense takes place: through accusations (more violent) or by showing the absurdity of this sentiment (pedagogy)?
+* From where does it come from: from the Asian-American citizens or from non-Asian-American citizens? Politicians or citizens?
+* And how this defense takes place: through accusations (more violent) or by showing the absurdity of this sentiment (by pedagogy)?
 
 ## Proposed additional datasets 
-*List the additional dataset(s) you want to use (if any), and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you’ve read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible.*
-- dataset dor training BERT (which one?)
-- dictionary-based approaches about sentiment: https://arxiv.org/pdf/1602.06979.pdf
+We want to use the tool Empath as an additional dataset, which can  analyze text across hundreds of data-driven categories. It will help us to validate a lexical categories on demand on our quotes. It is a dictionnary-based approaches about sentiment (see https://arxiv.org/pdf/1602.06979.pdf).
+
 ## Methods
-The aim of this project would be to analyse the sentiment of quotes related to China thanks to an appropriate pre-trained model: ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time. 
-* First evolution of sinophobic quotes throug graphs
+The aim of this project would be to analyse the sentiment of quotes related to China thanks to an appropriate pre-trained model (*Empath tool, see in [Methods](#Methods) section*): ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time.
+In order to to it, we will:
+* Show evolution of sinophobic quotes throug graphs
 * To gain a better understanding of the source, quotes would be sorted by their most likely speaker, keeping only those of American nationality, and further sorted by their occupation.
 * 
 
 ## Proposed timeline
 
-- Milestone 3.1: Statistical & graphical analysis for answering reserch questions
+- Milestone 3.1: Statistical & graphical analysis for answering [Research Questions](#Research-Questions)
 - Milestone 3.2: Finish & review of questions problems
 - Milestone 3.3: Notebook presentation & explanations
 
@@ -52,9 +50,6 @@ Until project Milestone 3:
 - Zied:
 - Anne:
 - Francesca:
-
-
-*upcoming steps in milestone 3*
 
 ## Questions for TAs 
 - Some quotes have muliple qids referencing the same name, how to be sure wich speaker to choose. 
