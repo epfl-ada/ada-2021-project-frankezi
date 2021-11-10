@@ -21,7 +21,7 @@ During the project, first we would like to analyse a bit more the **sinophobic s
 * If yes, is it correlated with some special events (COVID crisis, ...)? Are they sudden spikes?
 * From which part of the population does the sinophobic sentiment come from: citizens? Political parties? From which generation/range of ages?
 
-Secondly, we want to analyse the opposite part: those **who raise theirs voices against this anti-Chinese sentiment in the USA**.
+Secondly, we want to analyse the opposite part: those who raise theirs voices **against this anti-Chinese sentiment in the USA**.
 * who has been advocating for the anti-racism?
 * From where does it come from: from the Asian-American citizens or from non-Asian-American citizens? Politicians or citizens?
 * And how this defense takes place: through accusations (more violent) or by showing the absurdity of this sentiment (by pedagogy)?
@@ -30,7 +30,7 @@ Secondly, we want to analyse the opposite part: those **who raise theirs voices 
 We want to use the tool Empath as an additional dataset, which can  analyze text across hundreds of data-driven categories. It will help us to validate a lexical categories on demand on our quotes. It is a dictionnary-based approaches about sentiment (see [Fast, Ethan, Binbin Chen, and Michael S. Bernstein. "Empath: Understanding topic signals in large-scale text." *Proceedings of the 2016 CHI conference on human factors in computing systems.* 2016.](https://arxiv.org/pdf/1602.06979.pdf).
 
 ## Methods
-The aim of this project would be to analyse the sentiment of quotes related to China thanks to an appropriate pre-trained model (*Empath tool, see in [Methods](#Methods) section*): ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time.
+The aim of this project would be to analyse the sentiment of quotes related to China thanks to an appropriate pre-trained model (*Empath tool, see in [additional datasets](#Proposed-additional-datasets) section*): ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time.
 In order to to it, we will:
 * Show evolution of sinophobic quotes throug graphs
 * To gain a better understanding of the source, quotes would be sorted by their most likely speaker, keeping only those of American nationality, and further sorted by their occupation.
