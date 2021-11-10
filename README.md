@@ -31,7 +31,6 @@ We want to use the tool Empath as an additional dataset, which can  analyse text
 
 ## Methods
 The aim of this project would be to analyse the sentiment of quotes related to China thanks to an appropriate pre-trained model (*Empath tool, see in [additional datasets](#Proposed-additional-datasets) section*): ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time.
-
 In order to to it, we will:
 * To gain a better understanding of the source, quotes would be sorted by their most likely speaker, keeping only those of American nationality, and further sorted by their occupation.
 * Show main evolutions of sinophobic sentiment throug graphs.
@@ -39,19 +38,21 @@ In order to to it, we will:
 * We oppose analysis about sinophobic sentiment in the USA and analysis about anti-sinophobic sentiment.
 
 ## Proposed timeline
-- Milestone 3.1: Statistical & graphical analysis for answering [Research Questions](#Research-Questions)
-- Milestone 3.2: Finish & review of research questions
-- Milestone 3.3: Notebook presentation & explanations
+* Milestone 3.1 (week 9 & 10): Statistical & graphical analysis for answering [Research Questions](#Research-Questions)
+* Milestone 3.2 (week 11): Finish & review of research questions
+* Milestone 3.3 (week 12 & 13): Notebook presentation & explanations, and bonus (Quotebank issue reporting)
+=> Due: 17 Dec 2021
 
 ## Organization within the team 
 Until project Milestone 3:
-
-- *Zied:* finish to find which speaker is the good one + finish sorted the quotes
-- *Kepler:* categorization of quotes with the Empath dataset
-- *Francesca:* main evolutions of sinophobic sentiment + main observations
-- *Anne :* oppose analysis about sinophobic sentiment in the USA and analysis about anti-sinophobic sentiment
+* *Zied:* finish to find which speaker is the good one + finish sorted the quotes
+* *Kepler:* categorization of quotes with the Empath dataset
+* *Francesca:* main evolutions of sinophobic sentiment + main observations
+* *Anne:* oppose analysis about sinophobic sentiment in the USA and analysis about anti-sinophobic sentiment
+* *all:* Bonus (Quotebank issue reporting)
 
 ## Questions for TAs 
-- Some quotes have muliple qids referencing the same name, how to be sure wich speaker to choose?
-- Pertinance of our analysis?
+* Some quotes have muliple qids referencing the same name, how to be sure wich speaker to choose?
+* Pertinance of our analysis?
+* Difficulty to categorise jobs
 
