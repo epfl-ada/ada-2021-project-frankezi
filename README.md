@@ -27,7 +27,7 @@ Secondly, we want to analyse the opposite part: those **who raise theirs voices 
 * And how this defense takes place: through accusations (more violent) or by showing the absurdity of this sentiment (by pedagogy)?
 
 ## Proposed additional datasets 
-We want to use the tool Empath as an additional dataset, which can  analyze text across hundreds of data-driven categories. It will help us to validate a lexical categories on demand on our quotes. It is a dictionnary-based approaches about sentiment (see https://arxiv.org/pdf/1602.06979.pdf).
+We want to use the tool Empath as an additional dataset, which can  analyze text across hundreds of data-driven categories. It will help us to validate a lexical categories on demand on our quotes. It is a dictionnary-based approaches about sentiment (see [Fast, Ethan, Binbin Chen, and Michael S. Bernstein. "Empath: Understanding topic signals in large-scale text." *Proceedings of the 2016 CHI conference on human factors in computing systems.* 2016].(https://arxiv.org/pdf/1602.06979.pdf).
 
 ## Methods
 The aim of this project would be to analyse the sentiment of quotes related to China thanks to an appropriate pre-trained model (*Empath tool, see in [Methods](#Methods) section*): ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time.
