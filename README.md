@@ -33,15 +33,15 @@ We want to use the tool Empath as an additional dataset, which can  analyse text
 The aim of this project would be to analyse the sentiment of quotes related to China thanks to an appropriate pre-trained model (*Empath tool, see in [additional datasets](#Proposed-additional-datasets) section*): ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time.
 In order to do it, we will:
 * To gain a better understanding of the source, quotes would be sorted by their most likely speaker, keeping only those of American nationality, and further sorted by their occupation.
+* In addtition, to have more data, We add to the quotes those without most likely speaker but that come from an american paper.
 * Show main evolutions of sinophobic sentiment throug graphs.
 * We use the tool Empath to analyse our quotes and range them in categories of sentiments.
 * We oppose analysis about sinophobic sentiment in the USA and analysis about anti-sinophobic sentiment.
 
-
 ## Proposed timeline
 For the Milestone 2 we only used the quotes of 2020 to simplify our research. However, for Milestone 3, we will use quotes from 2015 to 2020 .
 
-* Milestone 3.1 (week 9 & 10): Statistical & graphical analysis for answering [Research Questions](#Research-Questions)
+* Milestone 3.1 (week 9 & 10): Add quotations from american papers, statistical & graphical analysis for answering [Research Questions](#Research-Questions)
 * Milestone 3.2 (week 11): Finish & review of research questions
 * Milestone 3.3 (week 12 & 13): Notebook presentation & explanations, and bonus (Quotebank issue reporting) <br/>
 => Due: 17 Dec 2021
@@ -55,7 +55,6 @@ Until project Milestone 3:
 * *all:* Bonus (Quotebank issue reporting)
 
 ## Questions for TAs 
-* Some quotes have muliple qids referencing the same name, how to be sure wich speaker to choose?
 * Pertinance of our analysis?
 * Difficulty to categorise jobs
 * Do we need to use a hand written matrix to put weight on positive and negative sentiments? Otherwse we loose some importants factors
