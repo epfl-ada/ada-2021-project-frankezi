@@ -48,7 +48,7 @@ For the Milestone 2 we only used the quotes of 2020 to simplify our research. Ho
 
 ## Organization within the team 
 Until project Milestone 3:
-* *Zied:* finish to find which speaker is the good one + finish sorted the quotes
+* *Zied:* finish to find which speaker is the good one + finish sort and filter the quotes
 * *Kepler:* categorization of quotes with the Empath dataset
 * *Francesca:* main evolutions of sinophobic sentiment + main observations
 * *Anne:* oppose analysis about sinophobic sentiment in the USA and analysis about anti-sinophobic sentiment
