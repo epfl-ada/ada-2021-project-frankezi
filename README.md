@@ -55,7 +55,8 @@ Until project Milestone 3:
 * *all:* Bonus (Quotebank issue reporting)
 
 ## Questions for TAs 
-* Pertinance of our analysis?
-* Difficulty to categorise jobs
-* Do we need to use a hand written matrix to put weight on positive and negative sentiments? Otherwse we loose some importants factors
+* Pertinence of our analysis?
+* Difficulty to categorise jobs/speaker occupations
+* We use a custom weighting scheme to add weights to categories in Empath predictions. Is there a way to make sure this scheme is as objective as possible, or are the ideas of "positive" and "negative" inherently too subjective?
+* The Empath model is able to detect concepts such as "trust" or "strength", but does not give any indication of their positive or negative context (i.e. "trust" and "mistrust" are equally detected under the "trust" category, and "strength" can both mean "a show of strength" or "a strong act of repression"). Is there a way to use Empath to obtain information about these contexts, or should we start looking for another tool?
 
