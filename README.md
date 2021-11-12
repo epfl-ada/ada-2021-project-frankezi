@@ -23,7 +23,7 @@ During this project, we would like to, firstly, analyse more the **sinophobic se
 
 Secondly, we want to analyse the opposite part: those who raise theirs voices **against this anti-Chinese sentiment in the USA**.
 * Who has been advocating for the anti-racism?
-* From where does it come from: from the Asian-American citizens or from non-Asian-American citizens? Politicians or citizens?
+* From where does it come from: Politicians or citizens?
 * And how these defenses takes place: through accusations (more violent) or by showing the absurdity of this sentiment (by pedagogy)?
 
 ## Proposed additional datasets 
@@ -43,7 +43,7 @@ For the Milestone 2 we only used the quotes of 2020 to simplify our research. Ho
 
 * Milestone 3.1 (week 9 & 10): Statistical & graphical analysis for answering [Research Questions](#Research-Questions)
 * Milestone 3.2 (week 11): Finish & review of research questions
-* Milestone 3.3 (week 12 & 13): Notebook presentation & explanations, and bonus (Quotebank issue reporting)
+* Milestone 3.3 (week 12 & 13): Notebook presentation & explanations, and bonus (Quotebank issue reporting) <br/>
 => Due: 17 Dec 2021
 
 ## Organization within the team 
