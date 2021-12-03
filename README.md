@@ -50,19 +50,15 @@ In order to do it, we will:
 * To gain a better understanding of the source, quotes would be sorted by their most likely speaker, keeping only those of American nationality, and further sorted by their occupation.
 * In addition, to have more data, We add to the quotes those without most likely speaker but that come from an american paper.
 * Show main evolutions of sinophobic sentiment throug graphs.
-What | How | For what
-| :--- | ---: | :---:
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
+  * USA Map, with scale of color (darker where there is more sinophobic sentiment) and we include a Widget to change the year (from 2015 to 2020)
+  * Explain some sudden increase in the Sinophobia (Covid …)
+  * Show categories of population (age range, education type, citizen status) that are sinophobic (ex: pie chart, bar chart)
 
-
-* 	USA Map, with scale of color (darker where there is more sinophobic sentiment), Widget to change the year (2015 2020)
--	Explain some sudden increase in the Sinophobia (Covid …)
--	Show categories of population (age range, education type, citizen status) that are sinophobic (ex: pie chart, bar chart)
--	Same Map but with anti-racist 
--	 maybe plot them next to each other to see if it is the same type of people or not, or in the same state
 * We use the tool VADER to analyse the sentiment of our quotes and obtain their scores of sentiment (from -1 to 1) (see [Proposed additional datasets](#Proposed-additional-datasets)).
 * We oppose analysis about sinophobic sentiment in the USA and analysis about anti-sinophobic sentiment.
+  * Same Map (USA Map, with scale of color) but for anti-racist, compare it with sinophobic
+  * Show categories of population (age range, education type, citizen status) that are anti-sinophobic sentiment, and compare it with the sinophobic jobs
+  * podium of first 3 states that are the most sinophobic face to top 3 states that are the most anti-sinophobic
 
 > "Based on the research questions, the steps you intend to follow are not clear enough. For example, which kind of analysis do you want to perform? And, which tools are you going to use? For instance, you could explain your procedure better by making use of some workflow charts."
 
