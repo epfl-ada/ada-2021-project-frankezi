@@ -16,16 +16,13 @@ For the past few decades, China’s domestic growth and worldwide influence augm
 
 
 ## Research Questions 
-During this project, we would like to, firstly, analyse more the **sinophobic sentiment in the USA** through the quotes.
+During this project, we would like to analyse the **sinophobic sentiment in the USA** through the quotes.
 * Can we see an evolution of the sinophobic sentiment in the USA?
 * What form/distribution does it have?
 * If yes, is it correlated with some special events (COVID crisis, ...)? Are there sudden spikes?
 * From which part of the population does the sinophobic sentiment come from: citizens? Political parties? From which generation/range of ages?
+* Is the average salary correlate with the racism?
 
-Secondly, we want to analyse the opposite part: those who raise theirs voices **against this anti-Chinese sentiment in the USA**.
-* Who has been advocating for the anti-racism?
-* From where does it come from: Politicians or citizens?
-* And how these defenses takes place: through accusations (more violent) or by showing the absurdity of this sentiment (by pedagogy)?
 
 ## Proposed additional datasets 
 
@@ -44,23 +41,25 @@ A good point with this tool is that it will take into account little word as for
 We decided not looking at the punctuations while analysing the sentiment of quotes.
 
 ## Methods
-The aim of this project would be to analyse the sentiment of quotes related to China thanks to an appropriate pre-trained model (*Empath tool, see in [additional datasets](#Proposed-additional-datasets) section*): ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time.
+The aim of this project would be to analyse the sentiment of quotes related to China thanks to an appropriate pre-trained model (*VADER tool, see in [additional datasets](#Proposed-additional-datasets) section*): ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time.
+
 In order to do it, we will:
-* to extract the quotations related to China, we implement an Information Retrieval tool. (TO DO)
+**DATA SORTING**
+* Extract the quotations related to China. In order to do so, we implement an Information Retrieval tool. (TO DO)
 * To gain a better understanding of the source, quotes would be sorted by their most likely speaker, keeping only those of American nationality, and further sorted by their occupation.
 * In addition, to have more data, We add to the quotes those without most likely speaker but that come from an american paper.
-* Show main evolutions of sinophobic sentiment throug graphs.
-  * USA Map, with scale of color (darker where there is more sinophobic sentiment) and we include a Widget to change the year (from 2015 to 2020)
-  * Explain some sudden increase in the Sinophobia (Covid …)
-  * Show categories of population (age range, education type, citizen status) that are sinophobic (ex: pie chart, bar chart)
-
 * We use the tool VADER to analyse the sentiment of our quotes and obtain their scores of sentiment (from -1 to 1) (see [Proposed additional datasets](#Proposed-additional-datasets)).
-* We oppose analysis about sinophobic sentiment in the USA and analysis about anti-sinophobic sentiment.
-  * Same Map (USA Map, with scale of color) but for anti-racist, compare it with sinophobic
-  * Show categories of population (age range, education type, citizen status) that are anti-sinophobic sentiment, and compare it with the sinophobic jobs
-  * podium of first 3 states that are the most sinophobic face to top 3 states that are the most anti-sinophobic
 
-> "Based on the research questions, the steps you intend to follow are not clear enough. For example, which kind of analysis do you want to perform? And, which tools are you going to use? For instance, you could explain your procedure better by making use of some workflow charts."
+**ANALYSIS**
+* Show main evolutions of sinophobic sentiment through graphs.
+  * USA Map, with scale of color (darker where there is more sinophobic sentiment) and we include a Widget to change the year (from 2015 to 2020).
+  * Graph of evolution of numbers of sinophobic quotes through time, and explain some sudden increase in the Sinophobia (Covid …)
+  * Show categories of population (age range, education type, citizen status) that are sinophobic (through pie chart, bar chart, ...)
+* podium of top 3 jobs that are the most sinophobic vs top 3 jobs that are the less sinophobic
+  * Graph of evolution of numbers of sinophobic quotes through time for the top 3 of sinophobic jobs vs top 3 less sinophobic
+* try to correlate evolution of each jobs sinophobia with the average salary of each top job in the USA 
+
+> "you could explain your procedure better by making use of some workflow charts."
 
 ## Proposed timeline
 For the Milestone 2 we only used the quotes of 2020 to simplify our research. However, for Milestone 3, we will use quotes from 2015 to 2020 .
