@@ -50,6 +50,17 @@ In order to do it, we will:
 * To gain a better understanding of the source, quotes would be sorted by their most likely speaker, keeping only those of American nationality, and further sorted by their occupation.
 * In addition, to have more data, We add to the quotes those without most likely speaker but that come from an american paper.
 * Show main evolutions of sinophobic sentiment throug graphs.
+What | How | For what
+| :--- | ---: | :---:
+Content Cell  | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell
+
+
+* 	USA Map, with scale of color (darker where there is more sinophobic sentiment), Widget to change the year (2015 2020)
+-	Explain some sudden increase in the Sinophobia (Covid …)
+-	Show categories of population (age range, education type, citizen status) that are sinophobic (ex: pie chart, bar chart)
+-	Same Map but with anti-racist 
+-	 maybe plot them next to each other to see if it is the same type of people or not, or in the same state
 * We use the tool VADER to analyse the sentiment of our quotes and obtain their scores of sentiment (from -1 to 1) (see [Proposed additional datasets](#Proposed-additional-datasets)).
 * We oppose analysis about sinophobic sentiment in the USA and analysis about anti-sinophobic sentiment.
 
