@@ -1,5 +1,4 @@
-# *P3: Final project and the datastory*
-# Evolution of sinophobic sentiment and propaganda in the United States of America from 2015 to 2020
+# *Final project:* Evolution of sinophobic sentiment and propaganda in the United States of America from 2015 to 2020
 
 ## Table of Contents
 1. [Abstract](#Abstract)
@@ -8,11 +7,13 @@
 4. [Methods](#Methods)
 5. [Proposed timeline](#Proposed-timeline)
 6. [Organization within the team](#Organization-within-the-team)
-7. [Contributions of all group members] (#Contributions-of-all-group-members)
+7. [Contributions of all group members](#Contributions-of-all-group-members)
 
 
 ## Abstract
 For the past few decades, China’s domestic growth and worldwide influence augmentation, along with economic and social instability in the US, have presented a threat to the idea of American exceptionalism. As a result, several prominent American political figures and media outlets have been fearmongering about the consequences of a stronger Chinese state. This, in turn, has increased anti-Asian and anti-Chinese sentiment among the general population, as exemplified in 2020 by the creation of *#StopAsianHate*, which aimed to bring to light the violent effect of scapegoating China for the Covid-19 pandemic on Asian-American citizens.
+> TO DO: written down a conclusion explaining better what the analysis is about and given a brief statement of your project's main objective.
+
 
 ## Research Questions 
 During this project, we would like to, firstly, analyse more the **sinophobic sentiment in the USA** through the quotes.
@@ -34,9 +35,9 @@ The output produced by running Empath on a quote is a dictionary associating a f
 The aim of this project would be to analyse the sentiment of quotes related to China thanks to an appropriate pre-trained model (*Empath tool, see in [additional datasets](#Proposed-additional-datasets) section*): ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time.
 In order to do it, we will:
 * To gain a better understanding of the source, quotes would be sorted by their most likely speaker, keeping only those of American nationality, and further sorted by their occupation.
-* In addtition, to have more data, We add to the quotes those without most likely speaker but that come from an american paper.
+* In addition, to have more data, We add to the quotes those without most likely speaker but that come from an american paper.
 * Show main evolutions of sinophobic sentiment throug graphs.
-* We use the tool Empath to analyse our quotes and range them in categories of sentiments.
+~~* We use the tool Empath to analyse our quotes and range them in categories of sentiments.~~ **Update for milestone 3:** No more! see [Proposed additional datasets](#Proposed-additional-datasets)
 * We oppose analysis about sinophobic sentiment in the USA and analysis about anti-sinophobic sentiment.
 
 ## Proposed timeline
@@ -56,5 +57,5 @@ Until project Milestone 3:
 * *all:* Bonus (Quotebank issue reporting)
 
 ## Contributions of all group members 
-TO DO
+> TO DO
 
