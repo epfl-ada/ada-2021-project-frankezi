@@ -44,6 +44,7 @@ We decided not looking at the punctuations while analysing the sentiment of quot
 The aim of this project would be to analyse the sentiment of quotes related to China thanks to an appropriate pre-trained model (*VADER tool, see in [additional datasets](#Proposed-additional-datasets) section*): ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time.
 
 In order to do it, we will:
+
 **DATA SORTING**
 * Extract the quotations related to China. In order to do so, we implement an Information Retrieval tool. (TO DO)
 * To gain a better understanding of the source, quotes would be sorted by their most likely speaker, keeping only those of American nationality, and further sorted by their occupation.
