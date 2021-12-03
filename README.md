@@ -1,4 +1,5 @@
-# P3: Final project and the datastory
+# *P3: Final project and the datastory*
+# Evolution of sinophobic sentiment and propaganda in the United States of America from 2015 to 2020
 
 ## Table of Contents
 1. [Abstract](#Abstract)
@@ -7,11 +8,10 @@
 4. [Methods](#Methods)
 5. [Proposed timeline](#Proposed-timeline)
 6. [Organization within the team](#Organization-within-the-team)
-7. [Contributions of all group members] (#contributions-of-all-group-members)
+7. [Contributions of all group members] (#Contributions-of-all-group-members)
 
 
 ## Abstract
-**Evolution of sinophobic sentiment and propaganda in the United States of America from 2015 to 2020** <br/>
 For the past few decades, China’s domestic growth and worldwide influence augmentation, along with economic and social instability in the US, have presented a threat to the idea of American exceptionalism. As a result, several prominent American political figures and media outlets have been fearmongering about the consequences of a stronger Chinese state. This, in turn, has increased anti-Asian and anti-Chinese sentiment among the general population, as exemplified in 2020 by the creation of *#StopAsianHate*, which aimed to bring to light the violent effect of scapegoating China for the Covid-19 pandemic on Asian-American citizens.
 
 ## Research Questions 
