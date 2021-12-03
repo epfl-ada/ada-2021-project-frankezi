@@ -28,13 +28,16 @@ Secondly, we want to analyse the opposite part: those who raise theirs voices **
 * And how these defenses takes place: through accusations (more violent) or by showing the absurdity of this sentiment (by pedagogy)?
 
 ## Proposed additional datasets 
-> We first wanted to use the tool Empath as an additional dataset to validate lexical categories, on demand, on our quotes (see [Fast, Ethan, Binbin Chen, and Michael S. Bernstein. "Empath: Understanding topic signals in large-scale text." *Proceedings of the 2016 CHI conference on human factors in computing systems.* 2016.](https://arxiv.org/pdf/1602.06979.pdf)). 
-After receiving the feedback of the Milestone 2, we change our plans and decided to use the tool VADER ([Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.](https://ojs.aaai.org/index.php/ICWSM/article/view/14550/14399)).
+> Milestone 2: We first wanted to use the tool Empath as an additional dataset to validate lexical categories, on demand, on our quotes (see [Fast, Ethan, Binbin Chen, and Michael S. Bernstein. "Empath: Understanding topic signals in large-scale text." *Proceedings of the 2016 CHI conference on human factors in computing systems.* 2016.](https://arxiv.org/pdf/1602.06979.pdf)). 
+
+**Update for milestone 3:** 
+After receiving the feedback of the Milestone 2, we change our plans and decided to use the tool VADER (Valence  Aware  Dictionary  for  sEntiment  Rea-soning).
+
+> *"VADER  performed  as  well  as (and in most cases, better than) eleven other highly regard-ed sentiment analysis tools."* - [Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.](https://ojs.aaai.org/index.php/ICWSM/article/view/14550/14399)
+
 The tool VADER is using a bag of words approach as seen in the ADA course. It will allow us to
 A good point with this tool is that it will take into account little word as for example “really” or “so”, and it will look for negations ("not", "not so", ...) while scoring the sentiment of a sentence. The only disadvantage of this tool is that Out of Vocab words that the sentiment analysis tool has not seen before will not be classified as positive/negative: we decided that it will not be a barrier for our project, considering that typos or very unusual words do not happen frequently in the quotes, and stay rare events.
-
-
-The output produced by running Empath on a quote is a dictionary associating a float value to each of the above categories. Looking at these categories, we can define some as being "positive" or "negative" in the context of media coverage. We split these categories manually.
+We decided not looking at the punctuations while analysing the sentiment of quotes.
 
 ## Methods
 The aim of this project would be to analyse the sentiment of quotes related to China thanks to an appropriate pre-trained model (*Empath tool, see in [additional datasets](#Proposed-additional-datasets) section*): ideally, we would be able to observe both the strength of the sentiment and the amount of polarised quotes within the dataset through time.
@@ -42,7 +45,7 @@ In order to do it, we will:
 * To gain a better understanding of the source, quotes would be sorted by their most likely speaker, keeping only those of American nationality, and further sorted by their occupation.
 * In addition, to have more data, We add to the quotes those without most likely speaker but that come from an american paper.
 * Show main evolutions of sinophobic sentiment throug graphs.
-~~* We use the tool Empath to analyse our quotes and range them in categories of sentiments.~~ **Update for milestone 3:** No more! see [Proposed additional datasets](#Proposed-additional-datasets)
+~~ We use the tool Empath to analyse our quotes and range them in categories of sentiments.~~ **Update for milestone 3:** No more! see [Proposed additional datasets](#Proposed-additional-datasets)
 * We oppose analysis about sinophobic sentiment in the USA and analysis about anti-sinophobic sentiment.
 
 ## Proposed timeline
