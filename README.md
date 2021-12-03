@@ -1,4 +1,4 @@
-# Milestone 2: Project proposal and initial analyses
+# P3: Final project and the datastory
 
 ## Table of Contents
 1. [Abstract](#Abstract)
@@ -7,7 +7,7 @@
 4. [Methods](#Methods)
 5. [Proposed timeline](#Proposed-timeline)
 6. [Organization within the team](#Organization-within-the-team)
-7. [Questions for TAs](#Questions-for-TAs)
+7. [Contributions of all group members] (#contributions-of-all-group-members)
 
 
 ## Abstract
@@ -55,9 +55,6 @@ Until project Milestone 3:
 * *Anne:* oppose analysis about sinophobic sentiment in the USA and analysis about anti-sinophobic sentiment
 * *all:* Bonus (Quotebank issue reporting)
 
-## Questions for TAs 
-* Pertinence of our analysis?
-* Difficulty to categorise jobs/speaker occupations
-* We use a custom weighting scheme to add weights to categories in Empath predictions. Is there a way to make sure this scheme is as objective as possible, or are the ideas of "positive" and "negative" inherently too subjective?
-* The Empath model is able to detect concepts such as "trust" or "strength", but does not give any indication of their positive or negative context (i.e. "trust" and "mistrust" are equally detected under the "trust" category, and "strength" can both mean "a show of strength" or "a strong act of repression"). Is there a way to use Empath to obtain information about these contexts, or should we start looking for another tool?
+## Contributions of all group members 
+TO DO
 
