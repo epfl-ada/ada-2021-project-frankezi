@@ -81,3 +81,16 @@ Until project Milestone 3:
 ## Contributions of all group members 
 > TO DO
 
+
+
+
+
+**TO DO**
+Kepler: recherche par topics, information retrievals + VADER
+Zied: base du website, website optimization
+
+Faire les statistique sur une phrase ou plusieurs tant que on a pas VADER
+faire des fonctions modulaires
+Franci: regroupe toutes les infos sur la personne aui parle (jobs, age, si on arrive state)
+Anne: comme franci, commencer analysis
+
