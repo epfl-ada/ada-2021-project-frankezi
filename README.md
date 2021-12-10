@@ -55,11 +55,12 @@ In order to do it, we will:
 * Show main evolutions of sinophobic sentiment through graphs.
   * USA Map, with scale of color (darker where there is more sinophobic sentiment) and we include a Widget to change the year (from 2015 to 2020).
   * Graph of evolution of numbers of sinophobic quotes through time, and explain some sudden increase in the Sinophobia (Covid …)
+* Show from which part of the population the Sinophobia comes from.
   * Show categories of population (age range, education type, citizen status) that are sinophobic (through pie chart, bar chart, ...)
-* podium of top 3 jobs that are the most sinophobic vs top 3 jobs that are the less sinophobic
+  * podium of top 3 jobs that are the most sinophobic vs top 3 jobs that are the less sinophobic
   * Graph of evolution of numbers of sinophobic quotes through time for the top 3 of sinophobic jobs vs top 3 less sinophobic
 * try to correlate evolution of each jobs sinophobia with the average salary of each top job in the USA 
-
+> not sure about the last part
 > "you could explain your procedure better by making use of some workflow charts."
 
 ## Proposed timeline
