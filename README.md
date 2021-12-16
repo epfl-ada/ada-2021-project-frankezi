@@ -1,18 +1,17 @@
-# *Final project:* Evolution of sinophobic sentiment and propaganda in the United States of America from 2015 to 2020
+# *Final project:* Evolution of sinophobic sentiment in the United States of America from 2015 to 2020
 
 ## Table of Contents
 1. [Abstract](#Abstract)
 2. [Research Questions](#Research-Questions)
 3. [Proposed additional datasets](#Proposed-additional-datasets)
 4. [Methods](#Methods)
-5. [Proposed timeline](#Proposed-timeline)
-6. [Organization within the team](#Organization-within-the-team)
-7. [Contributions of all group members](#Contributions-of-all-group-members)
+5. [Contributions of all group members](#Contributions-of-all-group-members)
 
 
 ## Abstract
-For the past few decades, China’s domestic growth and worldwide influence augmentation, along with economic and social instability in the US, have presented a threat to the idea of American exceptionalism. As a result, several prominent American political figures and media outlets have been fearmongering about the consequences of a stronger Chinese state. This, in turn, has increased anti-Asian and anti-Chinese sentiment among the general population, as exemplified in 2020 by the creation of *#StopAsianHate*, which aimed to bring to light the violent effect of scapegoating China for the Covid-19 pandemic on Asian-American citizens.
-> TO DO: written down a conclusion explaining better what the analysis is about and given a brief statement of your project's main objective.
+For the past few decades, China’s domestic growth and worldwide influence augmentation, along with economic and social instability in the US, have presented a threat to the idea of American exceptionalism. As a result, several prominent American political figures and media outlets have been fearmongering about the consequences of a stronger Chinese state. This, in turn, has increased anti-Asian and anti-Chinese sentiment among the general population, as exemplified in 2020 by the creation of *#StopAsianHate*, which aimed to bring to light the violent effect of scapegoating China for the Covid-19 pandemic on Asian-American citizens. 
+
+The first evident question that came through our minds is: from when is there Sinophobia in the USA? We want to know if this phenomenon appears during COVID-19 crisis only. After studying a bit more the evolution of the sinophobic sentiment through the years in the USA, it seems interesting to discover from where does this Sinophobia exactly came from. Racism, even if growing from a major event (like the COVID crisis, the fear of a war, etc.), can often be explained by more subjacent reasons: older generations? Political ideas? Jobs? Or against, does racism depend on education...?
 
 
 ## Research Questions 
@@ -20,9 +19,8 @@ During this project, we would like to analyse the **sinophobic sentiment in the 
 * Can we see an evolution of the sinophobic sentiment in the USA?
 * What form/distribution does it have?
 * If yes, is it correlated with some special events (COVID crisis, ...)? Are there sudden spikes?
-* From which part of the population does the sinophobic sentiment come from: citizens? Political parties? From which generation/range of ages?
-* Is the average salary correlate with the racism?
-
+* From which part of the population does the sinophobic sentiment more frequently come from: citizens? Political parties? From which generation/range of ages?
+* Is your favorite American sinophobic? You can test 20 personnalities, to know if she said something about China.
 
 ## Proposed additional datasets 
 
@@ -53,45 +51,21 @@ In order to do it, we will:
 
 **ANALYSIS**
 * Show main evolutions of sinophobic sentiment through graphs.
-  * USA Map, with scale of color (darker where there is more sinophobic sentiment) and we include a Widget to change the year (from 2015 to 2020).
   * Graph of evolution of numbers of sinophobic quotes through time, and explain some sudden increase in the Sinophobia (Covid …)
 * Show from which part of the population the Sinophobia comes from.
   * Show categories of population (age range, education type, citizen status) that are sinophobic (through pie chart, bar chart, ...)
-  * podium of top 3 jobs that are the most sinophobic vs top 3 jobs that are the less sinophobic
-  * Graph of evolution of numbers of sinophobic quotes through time for the top 3 of sinophobic jobs vs top 3 less sinophobic
-* try to correlate evolution of each jobs sinophobia with the average salary of each top job in the USA 
-> not sure about the last part
-> "you could explain your procedure better by making use of some workflow charts."
-
-## Proposed timeline
-For the Milestone 2 we only used the quotes of 2020 to simplify our research. However, for Milestone 3, we will use quotes from 2015 to 2020 .
-
-* Milestone 3.1 (week 9 & 10): Add quotations from american papers, statistical & graphical analysis for answering [Research Questions](#Research-Questions)
-* Milestone 3.2 (week 11): Finish & review of research questions
-* Milestone 3.3 (week 12 & 13): Notebook presentation & explanations, and bonus (Quotebank issue reporting) <br/>
-=> Due: 17 Dec 2021
-
-## Organization within the team 
-Until project Milestone 3:
-* *Zied:* finish to find which speaker is the good one + finish sort and filter the quotes
-* *Kepler:* categorization of quotes with the Empath dataset
-* *Francesca:* main evolutions of sinophobic sentiment + main observations
-* *Anne:* oppose analysis about sinophobic sentiment in the USA and analysis about anti-sinophobic sentiment
-* *all:* Bonus (Quotebank issue reporting)
+  * podium of top jobs that are the most sinophobic vs top jobs that are the less sinophobic
+  * Graph of evolution of numbers of sinophobic quotes through time for the top of sinophobic jobs vs top less sinophobic
+* Propose a set of American personalities, where you can pich one name
+  * Obtained number of sinophobic quotes
+  * Obtained number of non-sinophobic quotes
 
 ## Contributions of all group members 
-> TO DO
+* *Zied:* website creation, optimization of notebooks, load of data
+* *Kepler:* sentiment analysis, information retrievals
+* *Francesca:* writing of functions to collect info about speakers, website optimization
+* *Anne:* writing of html for website, collect info about speakers, plotly graphs
+* *all:* Bonus (Quotebank issue reporting), corrections of errors, optimization and brain storming
 
 
-
-
-
-**TO DO**
-Kepler: recherche par topics, information retrievals + VADER
-Zied: base du website, website optimization
-
-Faire les statistique sur une phrase ou plusieurs tant que on a pas VADER
-faire des fonctions modulaires
-Franci: regroupe toutes les infos sur la personne aui parle (jobs, age, si on arrive state)
-Anne: comme franci, commencer analysis
 
