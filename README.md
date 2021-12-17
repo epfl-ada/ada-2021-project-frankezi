@@ -58,11 +58,10 @@ In order to do it, we will:
   * podium of top jobs that are the most sinophobic vs top jobs that are the less sinophobic
   * Graph of evolution of numbers of sinophobic quotes through time for the top of sinophobic jobs vs top less sinophobic: we found that for sinophobic and non-sinophobic, politicians are the most represented. We also shows evolution of sinophobia of quotes through years ony for politicans.
 * Propose a set of American personalities, where you can pich one name
-  * Obtained number of sinophobic quotes
-  * Obtained number of non-sinophobic quotes
+  * On website: the user can select a speaker from a list of household names. Upon selection the script tells them whether our analysis determines their rhetoric to be sinophobic or not.
 
 ## Contributions of all group members 
-* *Zied:* website creation, optimization of notebooks, load of data
+* *Zied:* website creation, optimization of code in notebooks, load of data
 * *Kepler:* sentiment analysis, information retrievals
 * *Francesca:* writing of functions to collect info about speakers, website optimization
 * *Anne:* writing of code for website, collect info about speakers, plotly graphs
