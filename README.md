@@ -23,8 +23,7 @@ During this project, we would like to analyse the **sinophobic sentiment in the 
 * What form/distribution does it have?
 * If yes, is it correlated with some special events (COVID crisis, ...)? Are there sudden spikes?
 * From which part of the population does the sinophobic sentiment more frequently come from: citizens? Political parties? From which generation/range of ages?
-* Is your favorite American sinophobic? You can test personnalities, to know if she said something about China.
-* test the sinophibia of a quote
+* Test if a quote is sinophobic
 
 ## Proposed additional datasets 
 
@@ -60,9 +59,7 @@ In order to do it, we will:
   * Show categories of population (age range, education type, citizen status) that are sinophobic (through pie chart, bar chart, ...)
   * podium of top jobs that are the most sinophobic vs top jobs that are the less sinophobic
   * Graph of evolution of numbers of sinophobic quotes through time for the top of sinophobic jobs vs top less sinophobic: we found that for sinophobic and non-sinophobic, politicians are the most represented. We also shows evolution of sinophobia of quotes through years ony for politicans.
-* Propose a set of American personalities, where you can pich one name
-  * On website: the user can select a speaker from a list of household names. Upon selection the script tells them whether our analysis determines their rhetoric to be sinophobic or not.
-  * you can test if one quote is sinophobic or not
+* you can test if one quote is sinophobic or not
 
 ## Contributions of all group members 
 * *Zied:* website creation, optimization of code in notebooks, load of data
