@@ -1,4 +1,5 @@
 # *Final project:* Evolution of sinophobic sentiment in the United States of America from 2015 to 2020
+Our data-Story: https://share.streamlit.io/bitshrine/ada-website/main/app.py#sinophobia-through-the-usa-evolution-from-2015-to-2020
 
 ## Table of Contents
 1. [Abstract](#Abstract)
@@ -55,7 +56,7 @@ In order to do it, we will:
 * Show from which part of the population the Sinophobia comes from.
   * Show categories of population (age range, education type, citizen status) that are sinophobic (through pie chart, bar chart, ...)
   * podium of top jobs that are the most sinophobic vs top jobs that are the less sinophobic
-  * Graph of evolution of numbers of sinophobic quotes through time for the top of sinophobic jobs vs top less sinophobic
+  * Graph of evolution of numbers of sinophobic quotes through time for the top of sinophobic jobs vs top less sinophobic: we found that for sinophobic and non-sinophobic, politicians are the most represented. We also shows evolution of sinophobia of quotes through years ony for politicans.
 * Propose a set of American personalities, where you can pich one name
   * Obtained number of sinophobic quotes
   * Obtained number of non-sinophobic quotes
@@ -64,7 +65,7 @@ In order to do it, we will:
 * *Zied:* website creation, optimization of notebooks, load of data
 * *Kepler:* sentiment analysis, information retrievals
 * *Francesca:* writing of functions to collect info about speakers, website optimization
-* *Anne:* writing of html for website, collect info about speakers, plotly graphs
+* *Anne:* writing of code for website, collect info about speakers, plotly graphs
 * *all:* Bonus (Quotebank issue reporting), corrections of errors, optimization and brain storming
 
 
