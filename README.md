@@ -1,5 +1,6 @@
 # *Final project:* Evolution of sinophobic sentiment in the United States of America from 2015 to 2020
-WARNING: We decide to use plotly for creating some of our graphs. You cannot see them directly in the notebook, please look on the website od the data story directly.
+WARNING: We decide to use plotly for creating some of our graphs. You cannot see them directly in the notebook, please look on the website of the data story directly.
+
 Our data-Story: https://share.streamlit.io/bitshrine/ada-website/main/app.py
 
 ## Table of Contents
