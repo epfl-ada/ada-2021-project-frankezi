@@ -1,5 +1,7 @@
 # *Final project:* Evolution of sinophobic sentiment in the United States of America from 2015 to 2020
-Our data-Story: https://share.streamlit.io/bitshrine/ada-website/main/app.py#sinophobia-through-the-usa-evolution-from-2015-to-2020
+WARNING: We decide to use plotly for creating some of our graphs. You cannot see them directly in the notebook, please look on the website directly: https://share.streamlit.io/bitshrine/ada-website/main/app.py.
+
+Our data-Story: https://share.streamlit.io/bitshrine/ada-website/main/app.py
 
 ## Table of Contents
 1. [Abstract](#Abstract)
@@ -21,7 +23,8 @@ During this project, we would like to analyse the **sinophobic sentiment in the 
 * What form/distribution does it have?
 * If yes, is it correlated with some special events (COVID crisis, ...)? Are there sudden spikes?
 * From which part of the population does the sinophobic sentiment more frequently come from: citizens? Political parties? From which generation/range of ages?
-* Is your favorite American sinophobic? You can test 20 personnalities, to know if she said something about China.
+* Is your favorite American sinophobic? You can test personnalities, to know if she said something about China.
+* test the sinophibia of a quote
 
 ## Proposed additional datasets 
 
@@ -59,6 +62,7 @@ In order to do it, we will:
   * Graph of evolution of numbers of sinophobic quotes through time for the top of sinophobic jobs vs top less sinophobic: we found that for sinophobic and non-sinophobic, politicians are the most represented. We also shows evolution of sinophobia of quotes through years ony for politicans.
 * Propose a set of American personalities, where you can pich one name
   * On website: the user can select a speaker from a list of household names. Upon selection the script tells them whether our analysis determines their rhetoric to be sinophobic or not.
+  * you can test if one quote is sinophobic or not
 
 ## Contributions of all group members 
 * *Zied:* website creation, optimization of code in notebooks, load of data
